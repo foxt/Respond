@@ -25,10 +25,8 @@ const respond = {
   apply: function(name,data,applyingTo,elem) {
     var eval = respond.eval(data,elem)
     for (var key in applyingTo) {
-      console.log(key)
       if (key.toLowerCase() == name.toLowerCase()) {
         applyingTo[key] = eval
-        console.log(applyingTo[key],applyingTo,key,eval)
       }
     }
   },
