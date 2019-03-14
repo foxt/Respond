@@ -9,7 +9,7 @@ Respond is a JS library for updating the DOM from functions. In real time. Or wh
 
 "Don't use this in production" they said.
 
-So I say "you think i'm actually gonna update this :omegalul:
+So I say "you think i'm actually gonna update this :omegalul:"
 
 NORMAL VERSIOn: https://cdn.jsdelivr.net/gh/thelmgn/respond/respond.min.js
 
